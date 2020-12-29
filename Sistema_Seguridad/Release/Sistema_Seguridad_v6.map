@@ -1,0 +1,519 @@
+Archive member included because of file (symbol)
+
+c:/nxp/lpcxpresso_7.0.2_102/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__weak__main.o)
+                              ./src/4_Inicializaciones/cr_startup_lpc175x_6x.o (__main)
+
+Allocating common symbols
+Common symbol       size              file
+
+tecla               0x1               ./src/1_Aplicacion/main.o
+Buffer_Display      0x6               ./src/1_Aplicacion/main.o
+
+Discarded input sections
+
+ .text          0x00000000        0x0 ./src/4_Inicializaciones/Inicializaciones.o
+ .data          0x00000000        0x0 ./src/4_Inicializaciones/Inicializaciones.o
+ .bss           0x00000000        0x0 ./src/4_Inicializaciones/Inicializaciones.o
+ .text          0x00000000        0x0 ./src/4_Inicializaciones/Oscilador_Config.o
+ .data          0x00000000        0x0 ./src/4_Inicializaciones/Oscilador_Config.o
+ .bss           0x00000000        0x0 ./src/4_Inicializaciones/Oscilador_Config.o
+ .text          0x00000000        0x0 ./src/4_Inicializaciones/cr_startup_lpc175x_6x.o
+ .data          0x00000000        0x0 ./src/4_Inicializaciones/cr_startup_lpc175x_6x.o
+ .bss           0x00000000        0x0 ./src/4_Inicializaciones/cr_startup_lpc175x_6x.o
+ .text          0x00000000        0x0 ./src/4_Inicializaciones/crp.o
+ .data          0x00000000        0x0 ./src/4_Inicializaciones/crp.o
+ .bss           0x00000000        0x0 ./src/4_Inicializaciones/crp.o
+ .crp           0x00000000        0x4 ./src/4_Inicializaciones/crp.o
+ .debug_info    0x00000000       0x3b ./src/4_Inicializaciones/crp.o
+ .debug_abbrev  0x00000000       0x33 ./src/4_Inicializaciones/crp.o
+ .debug_aranges
+                0x00000000       0x18 ./src/4_Inicializaciones/crp.o
+ .debug_line    0x00000000       0x40 ./src/4_Inicializaciones/crp.o
+ .debug_str     0x00000000      0x13e ./src/4_Inicializaciones/crp.o
+ .comment       0x00000000       0x71 ./src/4_Inicializaciones/crp.o
+ .ARM.attributes
+                0x00000000       0x33 ./src/4_Inicializaciones/crp.o
+ .text          0x00000000        0x0 ./src/3_Drivers/Funciones_Basicas.o
+ .data          0x00000000        0x0 ./src/3_Drivers/Funciones_Basicas.o
+ .bss           0x00000000        0x0 ./src/3_Drivers/Funciones_Basicas.o
+ .text.Barrido_Display
+                0x00000000      0x14c ./src/3_Drivers/Funciones_Basicas.o
+ .bss.digito.3721
+                0x00000000        0x1 ./src/3_Drivers/Funciones_Basicas.o
+ .text          0x00000000        0x0 ./src/3_Drivers/Funciones_ISR.o
+ .data          0x00000000        0x0 ./src/3_Drivers/Funciones_ISR.o
+ .bss           0x00000000        0x0 ./src/3_Drivers/Funciones_ISR.o
+ .text          0x00000000        0x0 ./src/3_Drivers/Funciones_PINES.o
+ .data          0x00000000        0x0 ./src/3_Drivers/Funciones_PINES.o
+ .bss           0x00000000        0x0 ./src/3_Drivers/Funciones_PINES.o
+ .text.ConfigPIN
+                0x00000000       0x58 ./src/3_Drivers/Funciones_PINES.o
+ .text.ConfigSALIDA
+                0x00000000       0x5c ./src/3_Drivers/Funciones_PINES.o
+ .text          0x00000000        0x0 ./src/2_Primitivas/Funciones.o
+ .data          0x00000000        0x0 ./src/2_Primitivas/Funciones.o
+ .bss           0x00000000        0x0 ./src/2_Primitivas/Funciones.o
+ .text.Display_7Seg
+                0x00000000       0x58 ./src/2_Primitivas/Funciones.o
+ .rodata        0x00000000        0xa ./src/2_Primitivas/Funciones.o
+ .text          0x00000000        0x0 ./src/2_Primitivas/Funciones_de_Estados.o
+ .data          0x00000000        0x0 ./src/2_Primitivas/Funciones_de_Estados.o
+ .bss           0x00000000        0x0 ./src/2_Primitivas/Funciones_de_Estados.o
+ .text          0x00000000        0x0 ./src/2_Primitivas/Maquina_Estado.o
+ .data          0x00000000        0x0 ./src/2_Primitivas/Maquina_Estado.o
+ .bss           0x00000000        0x0 ./src/2_Primitivas/Maquina_Estado.o
+ .text          0x00000000        0x0 ./src/1_Aplicacion/main.o
+ .data          0x00000000        0x0 ./src/1_Aplicacion/main.o
+ .bss           0x00000000        0x0 ./src/1_Aplicacion/main.o
+ COMMON         0x00000000        0x7 ./src/1_Aplicacion/main.o
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_7.0.2_102/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__weak__main.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_7.0.2_102/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__weak__main.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_7.0.2_102/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__weak__main.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+MFlash512        0x00000000         0x00080000         xr
+RamLoc32         0x10000000         0x00008000         xrw
+RamAHB32         0x2007c000         0x00008000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./src/4_Inicializaciones/Inicializaciones.o
+LOAD ./src/4_Inicializaciones/Oscilador_Config.o
+LOAD ./src/4_Inicializaciones/cr_startup_lpc175x_6x.o
+LOAD ./src/4_Inicializaciones/crp.o
+LOAD ./src/3_Drivers/Funciones_Basicas.o
+LOAD ./src/3_Drivers/Funciones_ISR.o
+LOAD ./src/3_Drivers/Funciones_PINES.o
+LOAD ./src/2_Primitivas/Funciones.o
+LOAD ./src/2_Primitivas/Funciones_de_Estados.o
+LOAD ./src/2_Primitivas/Maquina_Estado.o
+LOAD ./src/1_Aplicacion/main.o
+START GROUP
+LOAD c:/nxp/lpcxpresso_7.0.2_102/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a
+LOAD c:/nxp/lpcxpresso_7.0.2_102/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m\libcr_eabihelpers.a
+END GROUP
+                0x00080000                __top_MFlash512 = 0x80000
+                0x10008000                __top_RamLoc32 = 0x10008000
+                0x20084000                __top_RamAHB32 = 0x20084000
+
+.text           0x00000000      0x98c
+ FILL mask 0xff
+                0x00000000                __vectors_start__ = ABSOLUTE (.)
+ *(.isr_vector)
+ .isr_vector    0x00000000       0xcc ./src/4_Inicializaciones/cr_startup_lpc175x_6x.o
+                0x00000000                g_pfnVectors
+                0x000000cc                . = ALIGN (0x4)
+                0x000000cc                __section_table_start = .
+                0x000000cc                __data_section_table = .
+                0x000000cc        0x4 LONG 0x98c LOADADDR (.data)
+                0x000000d0        0x4 LONG 0x10000000 ADDR (.data)
+                0x000000d4        0x4 LONG 0x8 SIZEOF (.data)
+                0x000000d8        0x4 LONG 0x98c LOADADDR (.data_RAM2)
+                0x000000dc        0x4 LONG 0x2007c000 ADDR (.data_RAM2)
+                0x000000e0        0x4 LONG 0x0 SIZEOF (.data_RAM2)
+                0x000000e4                __data_section_table_end = .
+                0x000000e4                __bss_section_table = .
+                0x000000e4        0x4 LONG 0x10000008 ADDR (.bss)
+                0x000000e8        0x4 LONG 0x4 SIZEOF (.bss)
+                0x000000ec        0x4 LONG 0x2007c000 ADDR (.bss_RAM2)
+                0x000000f0        0x4 LONG 0x0 SIZEOF (.bss_RAM2)
+                0x000000f4                __bss_section_table_end = .
+                0x000000f4                __section_table_end = .
+ *(.after_vectors*)
+ .after_vectors
+                0x000000f4       0x74 ./src/4_Inicializaciones/cr_startup_lpc175x_6x.o
+                0x000000f4                NMI_Handler
+                0x000000f6                HardFault_Handler
+                0x000000f8                MemManage_Handler
+                0x000000fa                BusFault_Handler
+                0x000000fc                UsageFault_Handler
+                0x000000fe                SVC_Handler
+                0x00000100                DebugMon_Handler
+                0x00000102                PendSV_Handler
+                0x00000106                USBActivity_IRQHandler
+                0x00000106                I2C1_IRQHandler
+                0x00000106                EINT2_IRQHandler
+                0x00000106                UART1_IRQHandler
+                0x00000106                CANActivity_IRQHandler
+                0x00000106                TIMER3_IRQHandler
+                0x00000106                UART0_IRQHandler
+                0x00000106                MCPWM_IRQHandler
+                0x00000106                I2C0_IRQHandler
+                0x00000106                IntDefaultHandler
+                0x00000106                PLL0_IRQHandler
+                0x00000106                RIT_IRQHandler
+                0x00000106                PLL1_IRQHandler
+                0x00000106                SSP0_IRQHandler
+                0x00000106                I2S_IRQHandler
+                0x00000106                I2C2_IRQHandler
+                0x00000106                RTC_IRQHandler
+                0x00000106                TIMER0_IRQHandler
+                0x00000106                SPI_IRQHandler
+                0x00000106                UART3_IRQHandler
+                0x00000106                EINT1_IRQHandler
+                0x00000106                TIMER1_IRQHandler
+                0x00000106                UART2_IRQHandler
+                0x00000106                ADC_IRQHandler
+                0x00000106                SSP1_IRQHandler
+                0x00000106                USB_IRQHandler
+                0x00000106                BOD_IRQHandler
+                0x00000106                PWM1_IRQHandler
+                0x00000106                WDT_IRQHandler
+                0x00000106                CAN_IRQHandler
+                0x00000106                QEI_IRQHandler
+                0x00000106                TIMER2_IRQHandler
+                0x00000106                DMA_IRQHandler
+                0x00000106                ENET_IRQHandler
+                0x00000108                data_init
+                0x0000011a                bss_init
+                0x0000012a                ResetISR
+ *(.text*)
+ .text.InitSysTick
+                0x00000168       0x2c ./src/4_Inicializaciones/Inicializaciones.o
+                0x00000168                InitSysTick
+ .text.InitAlerta
+                0x00000194       0x40 ./src/4_Inicializaciones/Inicializaciones.o
+                0x00000194                InitAlerta
+ .text.InitAlarma
+                0x000001d4       0x40 ./src/4_Inicializaciones/Inicializaciones.o
+                0x000001d4                InitAlarma
+ .text.InitGPIOs
+                0x00000214       0xd8 ./src/4_Inicializaciones/Inicializaciones.o
+                0x00000214                InitGPIOs
+ .text.InitTeclado
+                0x000002ec       0x42 ./src/4_Inicializaciones/Inicializaciones.o
+                0x000002ec                InitTeclado
+ .text.InitDisplay
+                0x0000032e      0x11e ./src/4_Inicializaciones/Inicializaciones.o
+                0x0000032e                InitDisplay
+ .text.Inicializar
+                0x0000044c       0x22 ./src/4_Inicializaciones/Inicializaciones.o
+                0x0000044c                Inicializar
+ *fill*         0x0000046e        0x2 
+ .text.InitPLL  0x00000470        0xc ./src/4_Inicializaciones/Oscilador_Config.o
+                0x00000470                InitPLL
+ .text.Barrido_Teclado
+                0x0000047c       0x22 ./src/3_Drivers/Funciones_Basicas.o
+                0x0000047c                Barrido_Teclado
+ *fill*         0x0000049e        0x2 
+ .text.Validacion_Teclado
+                0x000004a0       0x40 ./src/3_Drivers/Funciones_Basicas.o
+                0x000004a0                Validacion_Teclado
+ .text.SysTick_Handler
+                0x000004e0       0x3c ./src/3_Drivers/Funciones_ISR.o
+                0x000004e0                SysTick_Handler
+ .text.EINT0_IRQHandler
+                0x0000051c       0x1c ./src/3_Drivers/Funciones_ISR.o
+                0x0000051c                EINT0_IRQHandler
+ .text.EINT3_IRQHandler
+                0x00000538       0x1c ./src/3_Drivers/Funciones_ISR.o
+                0x00000538                EINT3_IRQHandler
+ .text.SetPINSEL
+                0x00000554       0x32 ./src/3_Drivers/Funciones_PINES.o
+                0x00000554                SetPINSEL
+ *fill*         0x00000586        0x2 
+ .text.SetPINMODE
+                0x00000588       0x38 ./src/3_Drivers/Funciones_PINES.o
+                0x00000588                SetPINMODE
+ .text.SetDIR   0x000005c0       0x22 ./src/3_Drivers/Funciones_PINES.o
+                0x000005c0                SetDIR
+ *fill*         0x000005e2        0x2 
+ .text.SetPIN   0x000005e4       0x20 ./src/3_Drivers/Funciones_PINES.o
+                0x000005e4                SetPIN
+ .text.GetPIN   0x00000604       0x14 ./src/3_Drivers/Funciones_PINES.o
+                0x00000604                GetPIN
+ .text.Teclado  0x00000618       0x14 ./src/2_Primitivas/Funciones.o
+                0x00000618                Teclado
+ .text.Check_Pass
+                0x0000062c       0x38 ./src/2_Primitivas/Funciones_de_Estados.o
+                0x0000062c                Check_Pass
+ .text.Password
+                0x00000664       0x88 ./src/2_Primitivas/Funciones_de_Estados.o
+                0x00000664                Password
+ .text.Check_Sensores
+                0x000006ec       0x2c ./src/2_Primitivas/Funciones_de_Estados.o
+                0x000006ec                Check_Sensores
+ .text.Activar_Sistema
+                0x00000718        0x2 ./src/2_Primitivas/Funciones_de_Estados.o
+                0x00000718                Activar_Sistema
+ *fill*         0x0000071a        0x2 
+ .text.Desactivar_Sistema
+                0x0000071c       0x40 ./src/2_Primitivas/Funciones_de_Estados.o
+                0x0000071c                Desactivar_Sistema
+ .text.Activar_Alerta
+                0x0000075c       0x24 ./src/2_Primitivas/Funciones_de_Estados.o
+                0x0000075c                Activar_Alerta
+ .text.Desactivar_Alerta
+                0x00000780       0x24 ./src/2_Primitivas/Funciones_de_Estados.o
+                0x00000780                Desactivar_Alerta
+ .text.Activar_Alarma
+                0x000007a4       0x2e ./src/2_Primitivas/Funciones_de_Estados.o
+                0x000007a4                Activar_Alarma
+ .text.Desactivar_Alarma
+                0x000007d2       0x2e ./src/2_Primitivas/Funciones_de_Estados.o
+                0x000007d2                Desactivar_Alarma
+ .text.Maquina_Sistema_Seguridad
+                0x00000800      0x17c ./src/2_Primitivas/Maquina_Estado.o
+                0x00000800                Maquina_Sistema_Seguridad
+ .text.startup.main
+                0x0000097c        0xc ./src/1_Aplicacion/main.o
+                0x0000097c                main
+ .text.__weak_main
+                0x00000988        0x4 c:/nxp/lpcxpresso_7.0.2_102/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__weak__main.o)
+                0x00000988                __weak_main
+                0x00000988                __main
+ *(.rodata .rodata.* .constdata .constdata.*)
+                0x0000098c                . = ALIGN (0x4)
+
+.glue_7         0x0000098c        0x0
+ .glue_7        0x00000000        0x0 linker stubs
+
+.glue_7t        0x0000098c        0x0
+ .glue_7t       0x00000000        0x0 linker stubs
+
+.vfp11_veneer   0x0000098c        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x0000098c        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x0000098c        0x0
+ .iplt          0x00000000        0x0 ./src/4_Inicializaciones/Inicializaciones.o
+
+.rel.dyn        0x0000098c        0x0
+ .rel.iplt      0x00000000        0x0 ./src/4_Inicializaciones/Inicializaciones.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x0000098c                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x0000098c                __exidx_end = .
+                0x0000098c                _etext = .
+
+.data_RAM2      0x2007c000        0x0 load address 0x0000098c
+ FILL mask 0xff
+ *(.ramfunc.$RAM2)
+ *(.data.$RAM2*)
+ *(.data.$RamAHB32*)
+                0x2007c000                . = ALIGN (0x4)
+
+.uninit_RESERVED
+                0x10000000        0x0
+ *(.bss.$RESERVED*)
+                0x10000000                . = ALIGN (0x4)
+                0x10000000                _end_uninit_RESERVED = .
+
+.data           0x10000000        0x8 load address 0x0000098c
+ FILL mask 0xff
+                0x10000000                _data = .
+ *(vtable)
+ *(.ramfunc*)
+ *(.data*)
+ .data.tecla_anterior.3716
+                0x10000000        0x1 ./src/3_Drivers/Funciones_Basicas.o
+ .data.cont.3717
+                0x10000001        0x1 ./src/3_Drivers/Funciones_Basicas.o
+ .data.Estado   0x10000002        0x1 ./src/1_Aplicacion/main.o
+                0x10000002                Estado
+ .data.Pass     0x10000003        0x2 ./src/1_Aplicacion/main.o
+                0x10000003                Pass
+ .data.Buffer_Teclado
+                0x10000005        0x1 ./src/1_Aplicacion/main.o
+                0x10000005                Buffer_Teclado
+                0x10000008                . = ALIGN (0x4)
+ *fill*         0x10000006        0x2 ff
+                0x10000008                _edata = .
+
+.igot.plt       0x10000008        0x0 load address 0x00000994
+ .igot.plt      0x00000000        0x0 ./src/4_Inicializaciones/Inicializaciones.o
+
+.bss_RAM2       0x2007c000        0x0
+ *(.bss.$RAM2*)
+ *(.bss.$RamAHB32*)
+                0x2007c000                . = ALIGN (0x4)
+
+.bss            0x10000008        0x4
+                0x10000008                _bss = .
+ *(.bss*)
+ .bss.i.3714    0x10000008        0x1 ./src/2_Primitivas/Funciones_de_Estados.o
+ .bss.Sensor_Peso
+                0x10000009        0x1 ./src/1_Aplicacion/main.o
+                0x10000009                Sensor_Peso
+ .bss.Sensor_Infrarrojo
+                0x1000000a        0x1 ./src/1_Aplicacion/main.o
+                0x1000000a                Sensor_Infrarrojo
+ *(COMMON)
+                0x1000000c                . = ALIGN (0x4)
+ *fill*         0x1000000b        0x1 
+                0x1000000c                _ebss = .
+                0x1000000c                PROVIDE (end, .)
+
+.noinit_RAM2    0x2007c000        0x0
+ *(.noinit.$RAM2*)
+ *(.noinit.$RamAHB32*)
+                0x2007c000                . = ALIGN (0x4)
+
+.noinit         0x1000000c        0x0
+                0x1000000c                _noinit = .
+ *(.noinit*)
+                0x1000000c                . = ALIGN (0x4)
+                0x1000000c                _end_noinit = .
+                0x1000000c                PROVIDE (_pvHeapStart, .)
+                0x10008000                PROVIDE (_vStackTop, (__top_RamLoc32 - 0x0))
+OUTPUT(Sistema_Seguridad_v6.axf elf32-littlearm)
+
+.debug_info     0x00000000     0x1d7a
+ .debug_info    0x00000000      0x8ce ./src/4_Inicializaciones/Inicializaciones.o
+ .debug_info    0x000008ce       0x67 ./src/4_Inicializaciones/Oscilador_Config.o
+ .debug_info    0x00000935      0x26b ./src/4_Inicializaciones/cr_startup_lpc175x_6x.o
+ .debug_info    0x00000ba0      0x410 ./src/3_Drivers/Funciones_Basicas.o
+ .debug_info    0x00000fb0      0x114 ./src/3_Drivers/Funciones_ISR.o
+ .debug_info    0x000010c4      0x262 ./src/3_Drivers/Funciones_PINES.o
+ .debug_info    0x00001326       0xf2 ./src/2_Primitivas/Funciones.o
+ .debug_info    0x00001418      0x4b0 ./src/2_Primitivas/Funciones_de_Estados.o
+ .debug_info    0x000018c8      0x388 ./src/2_Primitivas/Maquina_Estado.o
+ .debug_info    0x00001c50      0x12a ./src/1_Aplicacion/main.o
+
+.debug_abbrev   0x00000000      0x86c
+ .debug_abbrev  0x00000000      0x136 ./src/4_Inicializaciones/Inicializaciones.o
+ .debug_abbrev  0x00000136       0x4b ./src/4_Inicializaciones/Oscilador_Config.o
+ .debug_abbrev  0x00000181      0x11d ./src/4_Inicializaciones/cr_startup_lpc175x_6x.o
+ .debug_abbrev  0x0000029e       0xfb ./src/3_Drivers/Funciones_Basicas.o
+ .debug_abbrev  0x00000399       0xca ./src/3_Drivers/Funciones_ISR.o
+ .debug_abbrev  0x00000463       0xb2 ./src/3_Drivers/Funciones_PINES.o
+ .debug_abbrev  0x00000515       0xc6 ./src/2_Primitivas/Funciones.o
+ .debug_abbrev  0x000005db      0x130 ./src/2_Primitivas/Funciones_de_Estados.o
+ .debug_abbrev  0x0000070b       0xc8 ./src/2_Primitivas/Maquina_Estado.o
+ .debug_abbrev  0x000007d3       0x99 ./src/1_Aplicacion/main.o
+
+.debug_aranges  0x00000000      0x268
+ .debug_aranges
+                0x00000000       0x50 ./src/4_Inicializaciones/Inicializaciones.o
+ .debug_aranges
+                0x00000050       0x20 ./src/4_Inicializaciones/Oscilador_Config.o
+ .debug_aranges
+                0x00000070       0x80 ./src/4_Inicializaciones/cr_startup_lpc175x_6x.o
+ .debug_aranges
+                0x000000f0       0x30 ./src/3_Drivers/Funciones_Basicas.o
+ .debug_aranges
+                0x00000120       0x30 ./src/3_Drivers/Funciones_ISR.o
+ .debug_aranges
+                0x00000150       0x50 ./src/3_Drivers/Funciones_PINES.o
+ .debug_aranges
+                0x000001a0       0x28 ./src/2_Primitivas/Funciones.o
+ .debug_aranges
+                0x000001c8       0x60 ./src/2_Primitivas/Funciones_de_Estados.o
+ .debug_aranges
+                0x00000228       0x20 ./src/2_Primitivas/Maquina_Estado.o
+ .debug_aranges
+                0x00000248       0x20 ./src/1_Aplicacion/main.o
+
+.debug_ranges   0x00000000      0x1c8
+ .debug_ranges  0x00000000       0x40 ./src/4_Inicializaciones/Inicializaciones.o
+ .debug_ranges  0x00000040       0x10 ./src/4_Inicializaciones/Oscilador_Config.o
+ .debug_ranges  0x00000050       0x70 ./src/4_Inicializaciones/cr_startup_lpc175x_6x.o
+ .debug_ranges  0x000000c0       0x20 ./src/3_Drivers/Funciones_Basicas.o
+ .debug_ranges  0x000000e0       0x20 ./src/3_Drivers/Funciones_ISR.o
+ .debug_ranges  0x00000100       0x40 ./src/3_Drivers/Funciones_PINES.o
+ .debug_ranges  0x00000140       0x18 ./src/2_Primitivas/Funciones.o
+ .debug_ranges  0x00000158       0x50 ./src/2_Primitivas/Funciones_de_Estados.o
+ .debug_ranges  0x000001a8       0x10 ./src/2_Primitivas/Maquina_Estado.o
+ .debug_ranges  0x000001b8       0x10 ./src/1_Aplicacion/main.o
+
+.debug_line     0x00000000      0xb32
+ .debug_line    0x00000000      0x191 ./src/4_Inicializaciones/Inicializaciones.o
+ .debug_line    0x00000191       0xd0 ./src/4_Inicializaciones/Oscilador_Config.o
+ .debug_line    0x00000261       0xaf ./src/4_Inicializaciones/cr_startup_lpc175x_6x.o
+ .debug_line    0x00000310      0x12a ./src/3_Drivers/Funciones_Basicas.o
+ .debug_line    0x0000043a      0x104 ./src/3_Drivers/Funciones_ISR.o
+ .debug_line    0x0000053e      0x162 ./src/3_Drivers/Funciones_PINES.o
+ .debug_line    0x000006a0       0xf1 ./src/2_Primitivas/Funciones.o
+ .debug_line    0x00000791      0x1a9 ./src/2_Primitivas/Funciones_de_Estados.o
+ .debug_line    0x0000093a      0x129 ./src/2_Primitivas/Maquina_Estado.o
+ .debug_line    0x00000a63       0xcf ./src/1_Aplicacion/main.o
+
+.debug_str      0x00000000      0x722
+ .debug_str     0x00000000      0x25c ./src/4_Inicializaciones/Inicializaciones.o
+                                0x269 (size before relaxing)
+ .debug_str     0x0000025c       0x2d ./src/4_Inicializaciones/Oscilador_Config.o
+                                0x17f (size before relaxing)
+ .debug_str     0x00000289      0x19d ./src/4_Inicializaciones/cr_startup_lpc175x_6x.o
+                                0x2b8 (size before relaxing)
+ .debug_str     0x00000426       0xab ./src/3_Drivers/Funciones_Basicas.o
+                                0x1f0 (size before relaxing)
+ .debug_str     0x000004d1       0x68 ./src/3_Drivers/Funciones_ISR.o
+                                0x1e4 (size before relaxing)
+ .debug_str     0x00000539       0x64 ./src/3_Drivers/Funciones_PINES.o
+                                0x1e6 (size before relaxing)
+ .debug_str     0x0000059d       0x4a ./src/2_Primitivas/Funciones.o
+                                0x1c6 (size before relaxing)
+ .debug_str     0x000005e7       0xc8 ./src/2_Primitivas/Funciones_de_Estados.o
+                                0x23f (size before relaxing)
+ .debug_str     0x000006af       0x58 ./src/2_Primitivas/Maquina_Estado.o
+                                0x23f (size before relaxing)
+ .debug_str     0x00000707       0x1b ./src/1_Aplicacion/main.o
+                                0x1db (size before relaxing)
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x70 ./src/4_Inicializaciones/Inicializaciones.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 ./src/4_Inicializaciones/Oscilador_Config.o
+ .comment       0x00000000       0x71 ./src/4_Inicializaciones/cr_startup_lpc175x_6x.o
+ .comment       0x00000000       0x71 ./src/3_Drivers/Funciones_Basicas.o
+ .comment       0x00000000       0x71 ./src/3_Drivers/Funciones_ISR.o
+ .comment       0x00000000       0x71 ./src/3_Drivers/Funciones_PINES.o
+ .comment       0x00000000       0x71 ./src/2_Primitivas/Funciones.o
+ .comment       0x00000000       0x71 ./src/2_Primitivas/Funciones_de_Estados.o
+ .comment       0x00000000       0x71 ./src/2_Primitivas/Maquina_Estado.o
+ .comment       0x00000000       0x71 ./src/1_Aplicacion/main.o
+ .comment       0x00000000       0x71 c:/nxp/lpcxpresso_7.0.2_102/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__weak__main.o)
+
+.ARM.attributes
+                0x00000000       0x33
+ .ARM.attributes
+                0x00000000       0x33 ./src/4_Inicializaciones/Inicializaciones.o
+ .ARM.attributes
+                0x00000033       0x33 ./src/4_Inicializaciones/Oscilador_Config.o
+ .ARM.attributes
+                0x00000066       0x33 ./src/4_Inicializaciones/cr_startup_lpc175x_6x.o
+ .ARM.attributes
+                0x00000099       0x33 ./src/3_Drivers/Funciones_Basicas.o
+ .ARM.attributes
+                0x000000cc       0x33 ./src/3_Drivers/Funciones_ISR.o
+ .ARM.attributes
+                0x000000ff       0x33 ./src/3_Drivers/Funciones_PINES.o
+ .ARM.attributes
+                0x00000132       0x33 ./src/2_Primitivas/Funciones.o
+ .ARM.attributes
+                0x00000165       0x33 ./src/2_Primitivas/Funciones_de_Estados.o
+ .ARM.attributes
+                0x00000198       0x33 ./src/2_Primitivas/Maquina_Estado.o
+ .ARM.attributes
+                0x000001cb       0x33 ./src/1_Aplicacion/main.o
+ .ARM.attributes
+                0x000001fe       0x33 c:/nxp/lpcxpresso_7.0.2_102/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__weak__main.o)
+
+.debug_frame    0x00000000      0x49c
+ .debug_frame   0x00000000       0xb0 ./src/4_Inicializaciones/Inicializaciones.o
+ .debug_frame   0x000000b0       0x20 ./src/4_Inicializaciones/Oscilador_Config.o
+ .debug_frame   0x000000d0       0xf0 ./src/4_Inicializaciones/cr_startup_lpc175x_6x.o
+ .debug_frame   0x000001c0       0x5c ./src/3_Drivers/Funciones_Basicas.o
+ .debug_frame   0x0000021c       0x48 ./src/3_Drivers/Funciones_ISR.o
+ .debug_frame   0x00000264       0xc4 ./src/3_Drivers/Funciones_PINES.o
+ .debug_frame   0x00000328       0x40 ./src/2_Primitivas/Funciones.o
+ .debug_frame   0x00000368       0xe0 ./src/2_Primitivas/Funciones_de_Estados.o
+ .debug_frame   0x00000448       0x2c ./src/2_Primitivas/Maquina_Estado.o
+ .debug_frame   0x00000474       0x28 ./src/1_Aplicacion/main.o
+
+.debug_loc      0x00000000      0x6c6
+ .debug_loc     0x00000000      0x15f ./src/4_Inicializaciones/cr_startup_lpc175x_6x.o
+ .debug_loc     0x0000015f       0x59 ./src/3_Drivers/Funciones_Basicas.o
+ .debug_loc     0x000001b8      0x2f2 ./src/3_Drivers/Funciones_PINES.o
+ .debug_loc     0x000004aa       0xc7 ./src/2_Primitivas/Funciones.o
+ .debug_loc     0x00000571       0x56 ./src/2_Primitivas/Funciones_de_Estados.o
+ .debug_loc     0x000005c7       0xff ./src/2_Primitivas/Maquina_Estado.o
